@@ -1,9 +1,9 @@
 {
-  "title": "2021年最新股東紀念品兌換資訊-股哥-零股股東紀念品代換小幫手",
+  "title": "2021年最新股東紀念品兌換資訊",
   "social": {
     "facebook": "https://www.facebook.com/%E8%82%A1%E5%93%A5-%E9%9B%B6%E8%82%A1%E8%82%A1%E6%9D%B1%E7%B4%80%E5%BF%B5%E5%93%81%E4%BB%A3%E6%8F%9B%E5%B0%8F%E5%B9%AB%E6%89%8B-736589990093087/",
-    "line_group": "https://line.me/ti/g2/HEbviMi7S7kEnebXfj_Z7g?utm_source=invitation&utm_medium=link_copy&utm_campaign=default",
-    "line": "https://line.me/ti/g2/HEbviMi7S7kEnebXfj_Z7g?utm_source=invitation&utm_medium=link_copy&utm_campaign=default"
+    "line_group": "https://line.me/ti/g2/HEbviMi7S7kEnebXfj_Z7g",
+    "line": "https://lin.ee/Oe5LcZe"
   },
   "stock": [
     {
@@ -23,6 +23,42 @@
       "pick_end_date": "2021/03/04",
       "agent_pick_info": "身分證正本",
       "meeting_url": "doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=8040&year=110&mtype=F"
+    },
+{
+      "code": "9999",
+      "company": "優你康",
+      "last_buy_date": "2021/04/20",
+      "stockholder_date": "2021/06/21",
+      "meeting_type": "常會",
+      "meeting_locate": "新竹",
+      "stockholder_souvenir": "全家50元禮券",
+      "odd_share": "否",
+      "receive_locate": "群益",
+      "stock_agent_phone": "02-27023999",
+      "vote_start_date": "",
+      "vote_end_date": "",
+      "pick_start_date": "2021/03/19",
+      "pick_end_date": "2021/04/01",
+      "agent_pick_info": "通知書",
+      "meeting_url": "doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=4150&year=110&mtype=F"
+    },
+{
+      "code": "8888",
+      "company": "優你康",
+      "last_buy_date": "2021/04/20",
+      "stockholder_date": "2021/06/21",
+      "meeting_type": "常會",
+      "meeting_locate": "新竹",
+      "stockholder_souvenir": "全家50元禮券",
+      "odd_share": "否",
+      "receive_locate": "群益",
+      "stock_agent_phone": "02-27023999",
+      "vote_start_date": "",
+      "vote_end_date": "",
+      "pick_start_date": "2021/03/19",
+      "pick_end_date": "2021/04/01",
+      "agent_pick_info": "通知書",
+      "meeting_url": "doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=4150&year=110&mtype=F"
     },
     {
       "code": "4150",
