@@ -1,0 +1,64 @@
+{
+  "title": "2021年最新股東紀念品兌換資訊-股哥-零股股東紀念品代換小幫手",
+  "social": {
+    "facebook": "https://www.google.com",
+    "line_group": "https://www.google.com",
+    "line": "https://www.google.com"
+  },
+  "stock": [
+    {
+      "code": "8040",
+      "company": "九暘",
+      "last_buy_date": "2021/01/20",
+      "stockholder_date": "2021/02/23",
+      "meeting_type": "臨時",
+      "meeting_locate": "新竹",
+      "stockholder_souvenir": "全家禮物卡200元",
+      "odd_share": "否",
+      "receive_locate": "九暘",
+      "stock_agent_phone": "02-23816288",
+      "vote_start_date": "",
+      "vote_end_date": "",
+      "pick_start_date": "2021/03/02",
+      "pick_end_date": "2021/03/04",
+      "agent_pick_info": "身分證正本",
+      "meeting_url": "doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=8040&year=110&mtype=F"
+    },
+    {
+      "code": "4150",
+      "company": "優你康",
+      "last_buy_date": "2021/04/20",
+      "stockholder_date": "2021/06/21",
+      "meeting_type": "常會",
+      "meeting_locate": "新竹",
+      "stockholder_souvenir": "全家50元禮券",
+      "odd_share": "否",
+      "receive_locate": "群益",
+      "stock_agent_phone": "02-27023999",
+      "vote_start_date": "",
+      "vote_end_date": "",
+      "pick_start_date": "2021/03/19",
+      "pick_end_date": "2021/04/01",
+      "agent_pick_info": "通知書",
+      "meeting_url": "doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=4150&year=110&mtype=F"
+    },
+    {
+      "code": "5529",
+      "company": "志嘉",
+      "last_buy_date": "2021/03/08",
+      "stockholder_date": "2021/04/09",
+      "meeting_type": "臨時",
+      "meeting_locate": "新竹",
+      "stockholder_souvenir": "7-11(45咖啡卡)",
+      "odd_share": "是",
+      "receive_locate": "統一",
+      "stock_agent_phone": "02-27463797",
+      "vote_start_date": "2021/03/25",
+      "vote_end_date": "2021/04/06",
+      "pick_start_date": "2021/04/12",
+      "pick_end_date": "2021/04/14",
+      "agent_pick_info": "正本與通知書",
+      "meeting_url": "doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=5529&year=110&mtype=F"
+    }
+  ]
+}
